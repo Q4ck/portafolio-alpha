@@ -1,0 +1,78 @@
+/* styles.css */
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+}
+.encabezado {
+    text-align: center;
+    margin-top: 0;
+    color: rgb(255, 255, 255);
+}
+.descripcion  {
+    text-align: center;
+    color: white;
+}
+.descripcion h2 {
+    color: aqua;
+}
+
+.descripcion img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.proyectos{
+    color: white;
+}
+.proyectos ol {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 200px;
+    line-height: 2;
+}
+.proyectos h2 {
+    color: rgb(51, 18, 233);
+    text-align: center;
+}
+/* no pasa nada */
+.tecnologias h2 {
+    color: rgb(0, 102, 255);
+    text-align: center;
+}
+.tecnologias{
+    text-align: left;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 200px;
+    line-height: 2;
+}
+.habilidades ol {
+    text-align: left;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 200px;
+    line-height: 2;
+}
+.tecnologias li {
+    color: white;
+}
+.habilidades h2 {
+    color: brown;
+    text-align: center;
+}
+.habilidades li {
+    color: white;
+}
+.experiencia h2 {
+    color: rgb(255, 0, 179);
+    text-align: center;
+}
+.experiencia  { 
+    color: white;
+}
+.experiencia ol {
+    text-align: center;
+    margin: 0 auto;
+    max-width: 200px;
+    line-height: 2;
+}
